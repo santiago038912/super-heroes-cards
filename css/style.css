@@ -95,7 +95,7 @@ h1 {
 .logoFinal {
     position: relative;
     right: -1150px;
-    bottom: 93px;
-    margin: 0px;
+    bottom: 80px;
+    margin: 0px auto;
     max-width: 10%;
 }
